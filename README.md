@@ -9,6 +9,7 @@ Installation
 Clone the repository:
 
 git clone https://github.com/Rahimdzx/Vk.git
+
 cd Vk
 
 
