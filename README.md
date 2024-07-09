@@ -1,9 +1,13 @@
 # Vk) RabbitMQ and PostgreSQL Integration
 This project demonstrates the integration of RabbitMQ for message queuing and PostgreSQL for database storage using Python.
 Prerequisites
+
 Python 3.x installed
+
 RabbitMQ installed and running locally
+
 PostgreSQL installed and running locally
+
 Python packages: pika, psycopg2 
 Installation
 Clone the repository:
