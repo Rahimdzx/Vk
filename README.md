@@ -24,17 +24,7 @@ RabbitMQ Configuration:
 
 Ensure RabbitMQ is running locally.
 Default connection parameters are used (localhost, guest/guest credentials).
-PostgreSQL Configuration:
 
-Ensure PostgreSQL is running locally.
-Update connection details in main.py if necessary (dbname, user, password, host, port).
-Usage :
-python main.py
-
-Sending Test Messages:
-
-Modify and run send_message.py to send test messages to RabbitMQ:
-python send_message.py
 
 
 
